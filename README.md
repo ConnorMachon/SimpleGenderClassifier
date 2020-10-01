@@ -6,3 +6,6 @@ Here's how it works:
 2) Create a model using Decision Tree Classifiers and predict gender
 3) Create a model using Logistic Regression and predict gender
 4) Create a model using K Neighbors Classifier and predict gender
+
+# Dependencies
+pip install -U scikit -learn
